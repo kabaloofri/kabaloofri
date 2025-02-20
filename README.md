@@ -1,9 +1,7 @@
 # 💫 About Me:
 Hi! I'm a passionate developer with experience in C, C++, C#, Assembly, and Python. I enjoy game development with Unity, building scuffed games.
 
-_"clean and buggy code, is better than spaghetti code that works
-
--someone"_
+_"clean and buggy code, is better than spaghetti code that works"_
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
