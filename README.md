@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi! I'm a passionate developer with experience in C, C++, C#, Assembly, and Python. I enjoy game development with Unity, building scuffed games.
+
 _"clean and buggy code, is better than spaghetti code that works
+
 -someone"_
 
 # 💻 Tech Stack:
