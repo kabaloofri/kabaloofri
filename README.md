@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a passionate developer with experience in C, C++, C#, Assembly, and Python. I enjoy game development with Unity, building scuffed games.
+Hi! I'm a developer with experience in C, C++, C#, Assembly, and Python. I enjoy game development with Unity, building scuffed games.
 
 _"clean code with errors, is better than spaghetti code that works"_
 
@@ -9,9 +9,6 @@ _"clean code with errors, is better than spaghetti code that works"_
 ![](https://github-readme-stats.vercel.app/api?username=kabaloofri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kabaloofri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kabaloofri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kabaloofri&limit=5&theme=dark&combine_all_yearly_contributions=true)
