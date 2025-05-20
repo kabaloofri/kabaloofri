@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hi! I'm a developer with experience in C, C++, C#, Assembly, and Python. I enjoy game development with Unity, building scuffed games.
-
-_"clean code with errors, is better than spaghetti code that works"_
+Hi! I'm a developer with experience in C, C++, C#, Assembly, and Python. I like to make games with Unity, mostly scuffed games tho.
 
 
 # 💻 Tech Stack:
